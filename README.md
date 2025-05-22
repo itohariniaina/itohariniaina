@@ -1,4 +1,4 @@
-#  Bonjour à toi ! Je m'appelle Hariniaina Itokiana RAKOTONDRAMANANA
+#  Hey! Je m'appelle Hariniaina Itokiana RAKOTONDRAMANANA
 
 > **Développeur Full-Stack** | **Étudiant BUT Informatique Lyon 1** | **À la recherche d'un stage en développement logiciel**
 
