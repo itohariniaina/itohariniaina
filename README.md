@@ -51,7 +51,7 @@ Actuellement en **2ème année de BUT Informatique** à l'IUT Lyon 1, je suis pa
 - **Méthodes** : Agile/Scrum, architecture MVC
 - **Résultat** : Interface responsive et gameplay fluide en temps réel
 
-### 🎨 Système de Quantification des Couleurs
+### 🎨 [Système de Quantification des Couleurs](https://forge.univ-lyon1.fr/p2202482/projetphp)
 **Outil d'analyse et de traitement d'images**
 - **Stack** : PHP, Architecture MVC, GD Library, Imagick
 - **Algorithmes** : K-means, méthodes naïves, distance colorimétrique CIEDE2000
