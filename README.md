@@ -1,14 +1,14 @@
 #  Hey! Je m'appelle Hariniaina Itokiana RAKOTONDRAMANANA
 
-> **Développeur Full-Stack** | **Étudiant BUT Informatique Lyon 1** | **À la recherche d'un stage en développement logiciel**
+> **Développeur Full-Stack** | **Étudiant BUT Informatique Lyon 1** | **En alternance - Ouvert aux opportunités**
 
 ---
 
 ## 🎯 À propos de moi
 
-Actuellement en **2ème année de BUT Informatique** à l'IUT Lyon 1, je suis passionné par le développement d'applications et la résolution de problèmes techniques complexes. Mon parcours (médecine, mathématiques, informatique) m'a appris l'adaptabilité et la persévérance.
+Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applications)** à l'IUT Lyon 1, je suis passionné par le développement d'applications et la résolution de problèmes techniques complexes. Mon parcours (médecine, mathématiques, informatique) m'a appris l'adaptabilité et la persévérance.
 
-🔍 **Je recherche un stage en développement logiciel** à partir de **juin 2025**, suivi d'une alternance de 12 mois pour ma 3ème année.
+💼 **Je suis actuellement en alternance**, mais je reste **ouvert à de potentielles opportunités** pour la suite de mon parcours professionnel.
 
 ---
 
@@ -96,13 +96,12 @@ Actuellement en **2ème année de BUT Informatique** à l'IUT Lyon 1, je suis pa
 
 ---
 
-## 🎯 Objectifs de Stage
+## 🎯 Perspectives
 
-Je recherche un stage qui me permettra de :
-- **Développer** des applications full-stack dans un environnement professionnel
-- **Collaborer** avec une équipe expérimentée sur des projets concrets
-- **Approfondir** mes compétences en gestion de projet informatique et DevOps
-- **Contribuer** activement aux solutions techniques de l'entreprise
+Bien qu'actuellement en poste, je reste à l'écoute du marché pour :
+- **Échanger** sur des opportunités futures (Post-Alternance, CDI)
+- **Collaborer** sur des projets innovants
+- **Contribuer** activement aux solutions techniques d'entreprises ambitieuses
 
 **Domaines d'intérêt** : Développement web, applications métier, gestion de projet, architecture logicielle
 
@@ -123,5 +122,5 @@ Je recherche un stage qui me permettra de :
 ---
 
 <div align="center">
-  <i>💼 Disponible pour un stage à partir de juin 2025 🚀</i>
+  <i>🚀 En alternance - Ouvert aux opportunités futures</i>
 </div>
