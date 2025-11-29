@@ -47,7 +47,7 @@ Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applica
 
 ## 🚀 Projets Phares
 
-### 🎨 [Système de Quantification des Couleurs (Python Edition)](https://github.com/ton-user/ton-repo-python)
+### 🎨 [Système de Quantification des Couleurs (Python Edition)](https://github.com/itohariniaina/OldPhpProject.git)
 **Modernisation d'un projet legacy (Migration PHP → Python/Docker)**
 - **Stack** : Python, Flask, Docker, NumPy, Scikit-learn
 - **Innovation** : Passage d'une architecture impérative à un traitement vectorisé haute performance
