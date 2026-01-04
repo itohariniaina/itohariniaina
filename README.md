@@ -4,11 +4,11 @@
 
 ---
 
-## 🎯 À propos de moi
+##  À propos de moi
 
 Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applications)** à l'IUT Lyon 1, je suis passionné par le développement d'applications et la résolution de problèmes techniques complexes. Mon parcours (médecine, mathématiques, informatique) m'a appris l'adaptabilité et la persévérance.
 
-💼 **Je suis actuellement en alternance**, mais je reste **ouvert à de potentielles opportunités** pour la suite de mon parcours professionnel.
+ **Je suis actuellement en alternance**, mais je reste **ouvert à de potentielles opportunités** pour la suite de mon parcours professionnel.
 
 ---
 
@@ -47,56 +47,48 @@ Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applica
 
 ## 🚀 Projets Phares
 
-### 🎨 [Système de Quantification des Couleurs (Python Edition)](https://github.com/itohariniaina/OldPhpProject.git)
+### 🎨 [Système de Quantification des Couleurs (ColorQuant)](https://github.com/itohariniaina/OldPhpProject.git)
 **Modernisation d'un projet legacy (Migration PHP → Python/Docker)**
 - **Stack** : Python, Flask, Docker, NumPy, Scikit-learn
 - **Innovation** : Passage d'une architecture impérative à un traitement vectorisé haute performance
 - **Fonctionnalités** : K-means clustering vectorisé, calcul Delta-E (CIEDE2000), conteneurisation complète
 - **Résultat** : Gain de performance x15 et déploiement simplifié via Docker
 
-### 🎮 [SudoNano - Sudoku Multijoueur](https://forge.univ-lyon1.fr/p2202482/sudonano)
+### 🎮 [SudoNano - Sudoku Multijoueur](sudonano.fr)
 **Application web multijoueur en temps réel**
 - **Stack** : Vue.js, Node.js, Express, Socket.IO, MySQL
 - **Fonctionnalités** : Matchs en ligne, salons privés/publics, classements, système de points
-- **Méthodes** : Agile/Scrum, architecture MVC
+- **Méthodes** : Agile/Scrum
 - **Résultat** : Interface responsive et gameplay fluide en temps réel
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariniaina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariniaina&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
 
 ## 🌟 Mes Atouts
 
-### 🎯 **Rigueur & Organisation**
+###  **Rigueur & Organisation**
 - Gestion de projet avec méthodes Agiles (Scrum)
 - Documentation technique détaillée
 - Respect des bonnes pratiques de développement
 
-### 🚀 **Curiosité & Apprentissage**
+###  **Curiosité & Apprentissage**
 - Maîtrise rapide de nouvelles technologies (Vue.js, Socket.IO, Docker)
 - Veille technologique constante
 - Capacité d'adaptation prouvée (reconversion médecine → informatique)
 
-### 🤝 **Travail d'Équipe**
+###  **Travail d'Équipe**
 - Collaboration avec Git/GitLab
 - Communication technique claire
 - Sens du partage de connaissances
 
-### 💡 **Résolution de Problèmes**
+###  **Résolution de Problèmes**
 - Optimisation d'algorithmes complexes
 - Débogage et amélioration de performances
 - Vision globale des projets (du besoin à la formation utilisateur)
 
 ---
 
-## 🎯 Perspectives
+##  Perspectives
 
 Bien qu'actuellement en poste, je reste à l'écoute du marché pour :
 - **Échanger** sur des opportunités futures (Post-Alternance, CDI)
@@ -107,7 +99,7 @@ Bien qu'actuellement en poste, je reste à l'écoute du marché pour :
 
 ---
 
-## 📫 Me Contacter
+##  Me Contacter
 
 <div align="center">
 
@@ -122,5 +114,5 @@ Bien qu'actuellement en poste, je reste à l'écoute du marché pour :
 ---
 
 <div align="center">
-  <i>🚀 En alternance - Ouvert aux opportunités futures</i>
+  <i> En alternance - Ouvert aux opportunités futures</i>
 </div>
