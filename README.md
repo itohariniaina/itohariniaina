@@ -54,7 +54,7 @@ Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applica
 - **Fonctionnalités** : K-means clustering vectorisé, calcul Delta-E (CIEDE2000), conteneurisation complète
 - **Résultat** : Gain de performance x15 et déploiement simplifié via Docker
 
-### 🎮 [SudoNano - Sudoku Multijoueur](sudonano.fr)
+### 🎮 [SudoNano - Sudoku Multijoueur](https://sudonano.fr)
 **Application web multijoueur en temps réel**
 - **Stack** : Vue.js, Node.js, Express, Socket.IO, MySQL
 - **Fonctionnalités** : Matchs en ligne, salons privés/publics, classements, système de points
