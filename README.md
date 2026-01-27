@@ -12,7 +12,7 @@ Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applica
 
 ---
 
-## 💻 Stack Technique
+## Stack Technique
 
 ### Langages de programmation
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,16 +45,16 @@ Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applica
 
 ---
 
-## 🚀 Projets Phares
+## Projets Phares
 
-### 🎨 [Système de Quantification des Couleurs (ColorQuant)](https://github.com/itohariniaina/OldPhpProject.git)
+### [Système de Quantification des Couleurs (ColorQuant)](https://github.com/itohariniaina/OldPhpProject.git)
 **Modernisation d'un projet legacy (Migration PHP → Python/Docker)**
 - **Stack** : Python, Flask, Docker, NumPy, Scikit-learn
 - **Innovation** : Passage d'une architecture impérative à un traitement vectorisé haute performance
 - **Fonctionnalités** : K-means clustering vectorisé, calcul Delta-E (CIEDE2000), conteneurisation complète
 - **Résultat** : Gain de performance x15 et déploiement simplifié via Docker
 
-### 🎮 [SudoNano - Sudoku Multijoueur](https://sudonano.fr)
+### [SudoNano - Sudoku Multijoueur](https://sudonano.fr)
 **Application web multijoueur en temps réel**
 - **Stack** : Vue.js, Node.js, Express, Socket.IO, MySQL
 - **Fonctionnalités** : Matchs en ligne, salons privés/publics, classements, système de points
@@ -64,7 +64,7 @@ Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applica
 ---
 
 
-## 🌟 Mes Atouts
+## Mes Atouts
 
 ###  **Rigueur & Organisation**
 - Gestion de projet avec méthodes Agiles (Scrum)
