@@ -8,7 +8,7 @@
 
 Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applications)** à l'IUT Lyon 1, je suis passionné par le développement d'applications et la résolution de problèmes techniques complexes. Mon parcours (médecine, mathématiques, informatique) m'a appris l'adaptabilité et la persévérance.
 
- **Admis à l'INSA Lyon en formation Ingénieur Informatique par apprentissage**, je suis à la **recherche d'une entreprise d'accueil pour une alternance de 3 ans** débutant en Septembre 2026.
+ **Admis à l'INSA Lyon en formation Ingénieur Informatique par apprentissage**, je rejoins **Conformitee pour une alternance de 3 ans** débutant en Septembre 2026.
 
 ---
 
