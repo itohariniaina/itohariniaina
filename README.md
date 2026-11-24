@@ -1,6 +1,6 @@
 #  Hey! Je m'appelle Hariniaina Itokiana RAKOTONDRAMANANA
 
-> **Développeur Full-Stack** | **Futur Ingénieur INSA Lyon (apprentissage)** | **Recherche alternance 3 ans dès Septembre 2026**
+> **Développeur Full-Stack** | **Futur Ingénieur INSA Lyon (apprentissage)**
 
 ---
 
