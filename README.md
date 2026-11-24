@@ -4,9 +4,9 @@
 
 ---
 
-##  À propos de moi
+## À propos de moi
 
-Actuellement en **3e année de cycle Ingénieur Informatique par apprentissage ** à l'INSA Lyon, je suis passionné par la résolution de problèmes techniques complexes et la création de solutions logicielles élégantes. Mon parcours (médecine, mathématiques, informatique) m'a appris l'adaptabilité et la persévérance.
+Actuellement en **3e année de cycle Ingénieur Informatique par apprentissage** à l'INSA Lyon, je suis passionné par la résolution de problèmes techniques complexes et la création de solutions logicielles élégantes. Mon parcours (médecine, mathématiques, informatique) m'a appris l'adaptabilité et la persévérance.
 
 ---
 
