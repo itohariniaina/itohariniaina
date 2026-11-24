@@ -6,9 +6,7 @@
 
 ##  À propos de moi
 
-Actuellement en **3e année de BUT Informatique (Parcours Réalisation d'Applications)** à l'IUT Lyon 1, je suis passionné par le développement d'applications et la résolution de problèmes techniques complexes. Mon parcours (médecine, mathématiques, informatique) m'a appris l'adaptabilité et la persévérance.
-
- **Admis à l'INSA Lyon en formation Ingénieur Informatique par apprentissage**, je rejoins **Conformitee pour une alternance de 3 ans** débutant en Septembre 2026.
+Actuellement en **3e année de cycle Ingénieur Informatique par apprentissage ** à l'INSA Lyon, je suis passionné par la résolution de problèmes techniques complexes et la création de solutions logicielles élégantes. Mon parcours (médecine, mathématiques, informatique) m'a appris l'adaptabilité et la persévérance.
 
 ---
 
@@ -117,7 +115,7 @@ Bien qu'actuellement en poste, je reste à l'écoute du marché pour :
 - **Collaborer** sur des projets innovants
 - **Contribuer** activement aux solutions techniques d'entreprises ambitieuses
 
-**Domaines d'intérêt** : Développement web et mobile, architecture logicielle,  Machine Learning, IA
+**Domaines d'intérêt** : Architecture logicielle,  Machine Learning, IA
 
 ---
 
